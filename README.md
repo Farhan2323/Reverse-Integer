@@ -1,4 +1,6 @@
-# Reverse-Integer : This code takes an Integer and returns it with the numbers reversed
+//# Reverse-Integer : This code takes an Integer and returns it with the numbers reversed
+
+
 
 #include <iostream>
 
